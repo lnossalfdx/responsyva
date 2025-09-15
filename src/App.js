@@ -35,7 +35,7 @@ const MainLayout = ({ onLogout }) => {
       <aside className="sidebar">
         <div className="sidebar-header">
           <img src="/logo.png" alt="Logo" className="sidebar-logo" />
-          <h1 className="sidebar-title-text">PlataformaIA</h1>
+          <h1 className="sidebar-title-text">Responsyva</h1>
         </div>
         <nav className="sidebar-menu">
           <NavLink to="/" className={({ isActive }) => (isActive ? 'active' : '')}>
