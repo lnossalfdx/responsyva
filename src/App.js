@@ -22,7 +22,7 @@ const getPageTitle = (pathname) => {
     case '/calendario': return 'Calendário';
     case '/configuracoes': return 'Configurações';
     case '/perfil': return 'Minha Conta';
-    default: return 'PlataformaIA';
+    default: return 'Responsyva';
   }
 };
 
